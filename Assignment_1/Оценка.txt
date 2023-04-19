@@ -1,0 +1,2 @@
+В обоих случаях лучше справился Matcher: в первом случае его score = 4790, а у Stretcher score = 1578;
+втором случае его score = 4008, у Stretcher score = 3156.
