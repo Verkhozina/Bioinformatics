@@ -1,0 +1,4 @@
+Official Symbol: MTHFR
+Official Full Name: methylenetetrahydrofolate reductase
+Database: Standart databases (Nucleotide collection (nr/rt))
+Optimize for: Highly similar sequences (megablast)
